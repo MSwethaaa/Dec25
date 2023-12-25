@@ -27,7 +27,7 @@ namespace Dec25
         static void Main(string[] args)
         {
             BSearchClass bs = new BSearchClass();
-            int[] nums = { 33, 11, 99, 88, 77, 12, 56, 23, 89 };
+            int[] nums = {76,34,98,25,88,21,12,65,56 };
             Console.WriteLine("actual array");
             foreach (int x in nums)
             {
